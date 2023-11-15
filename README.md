@@ -54,7 +54,6 @@ The same requirements apply:
  4. Explain how your project authenticates your users.
     
     We used Google IAP to authenticate users - users need to sign in with a Gmail account to view our website.
-    <img width="549" alt="user" src="https://github.com/CS5610-Seattle-Fall23/expressproject-team4/assets/90870823/a5cf3bad-cff8-447f-a34f-461ca06c4ce5">
 
     
  6. What was the process like for working on a team repository?
