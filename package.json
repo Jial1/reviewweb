@@ -1,0 +1,29 @@
+{
+  "name": "happylemon",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "jest"
+  },
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "gcp-metadata": "^5.3.0",
+    "google-auth-library": "^8.0.0",
+    "http-errors": "~1.6.3",
+    "jade": "^0.29.0",
+    "mime": "^3.0.0",
+    "mongoose": "^8.0.0",
+    "morgan": "~1.9.1",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.3"
+  },
+  "gcp-build": "nest build"
+}
